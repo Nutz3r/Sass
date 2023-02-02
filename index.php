@@ -40,6 +40,14 @@
                 
         
         </header>
+        <div class="wrapper">
+            <div id="jumbotron">
+                <h1>Lorem Ipsum</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Soluta officiis officia in blanditiis esse temporibus tenetur ipsa corporis! Molestiae, quae!</p>
+                <a href="#" id="contactez">Contactez-nous</a>
+                <a href="#" id="voir">Voir les établissements</a>
+            </div>
+        </div>
     </div>
 
 </body>
